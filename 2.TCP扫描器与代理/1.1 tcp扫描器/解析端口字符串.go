@@ -1,4 +1,4 @@
-package portformat
+package main
 
 import (
 	"errors"
